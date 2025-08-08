@@ -1,10 +1,10 @@
-package net.renn.terfwar.item;
+package net.renn.terfwarofdaworld.item;
 
 import net.minecraft.world.item.Item;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
-import net.renn.terfwar.TerfWar;
+import net.renn.terfwarofdaworld.TerfWar;
 
 public class ModItems {
 

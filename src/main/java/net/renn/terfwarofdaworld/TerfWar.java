@@ -1,8 +1,7 @@
-package net.renn.terfwar;
+package net.renn.terfwarofdaworld;
 
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
-import net.renn.terfwar.item.ModItems;
+import net.renn.terfwarofdaworld.item.ModItems;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
