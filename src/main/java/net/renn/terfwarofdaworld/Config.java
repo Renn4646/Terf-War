@@ -1,4 +1,4 @@
-package net.renn.terfwar;
+package net.renn.terfwarofdaworld;
 
 import java.util.List;
 
