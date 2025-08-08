@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/genarated",
+  "textures": {
+    "layer0": "terfwar:item/eraser"
+  }
+}
