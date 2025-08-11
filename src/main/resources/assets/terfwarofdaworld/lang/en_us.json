@@ -1,3 +1,11 @@
 {
-  "item.terfwarofdaworld.eraser": "Eraser"
+  "item.terfwarofdaworld.eraser": "Eraser",
+  "item.terfwarofdaworld.terf_bullet": "Terf Bullet",
+  "item.terfwarofdaworld.the_good_job_sticker": "The Good job Sticker",
+
+  "block.terfwarofdaworld.terf_bullet_block": "Terf Bullet Block",
+  "block.terfwarofdaworld.terf_bullet_crate": "Terf Bullet Crate",
+
+  "creativetab.terfwarofdaworld.terf_war_items": "Terf War Items",
+  "creativetab.terfwarofdaworld.terf_war_weapons": "Terf War Weapons"
 }

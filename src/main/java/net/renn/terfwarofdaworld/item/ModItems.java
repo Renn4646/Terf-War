@@ -12,6 +12,10 @@ public class ModItems {
 
     public static final DeferredItem<Item> ERASER = ITEMS.register("eraser",
             ()-> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> TERF_BULLET = ITEMS.register("terf_bullet",
+            ()-> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> THE_GOOD_JOB_STICKER = ITEMS.register("the_good_job_sticker",
+            ()-> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

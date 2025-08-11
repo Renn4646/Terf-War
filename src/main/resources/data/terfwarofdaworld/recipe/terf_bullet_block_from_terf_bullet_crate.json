@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "terfwarofdaworld:terf_bullet_crate"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "terfwarofdaworld:terf_bullet_block"
+  }
+}

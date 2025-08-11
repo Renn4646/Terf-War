@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "terfwarofdaworld:block/terf_bullet_block_end",
+    "side": "terfwarofdaworld:block/terf_bullet_block_side"
+  }
+}
